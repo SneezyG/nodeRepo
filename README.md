@@ -1,2 +1,2 @@
 # nodeRepo
-A node is repository 
+A nodejs repository 
